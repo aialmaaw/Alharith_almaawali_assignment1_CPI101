@@ -1,6 +1,15 @@
 body{background-color: #f78452;
 	font-size:20px; }
 
+h1{color:#e8c048;}
+h2{color:#ff3e20;}
+p{color:#ffc34c;}
+p1{color:#fa4322;}
+p2{color:#fa4322;}
+p3{color: #9e0b00}
+
+
+
 .box{    
     background-color: #ffb871;
    	width: 1205px;
@@ -27,12 +36,7 @@ body{background-color: #f78452;
 }
 
 
-h1{color:#e8c048;}
-h2{color:#ff3e20;}
-p{color:#ffc34c;}
-p1{color:#fa4322;}
-p2{color:#fa4322;}
-p3{color: #9e0b00}
+
 
 .box2{    
     background-color: #ffb871;
@@ -47,6 +51,14 @@ p3{color: #9e0b00}
    	padding: 30px;
    	position: relative;
 }
+
+a {
+	color:#ff0022
+}
+ a:hover {
+ color: #0447e3;
+ font-size: 21px;	
+ }
 
 
 
